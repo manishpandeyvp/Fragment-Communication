@@ -1,5 +1,5 @@
 package com.example.fragmentcommunication
 
 interface Communicator {
-    fun passValue(value : String)
+    fun passValue(value: String)
 }
